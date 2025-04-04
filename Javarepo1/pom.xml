@@ -28,7 +28,7 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-<!-- Dem24 -->
+<!-- Dem4 -->
 	<build>
 		<plugins>
 			<plugin>
